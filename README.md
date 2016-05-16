@@ -1,0 +1,1 @@
+Allows the use of the 'class' attribute within JSX by replacing it with 'className' at transpile.
