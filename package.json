@@ -1,23 +1,20 @@
-{
-  "name": "class-eq-classname",
-  "version": "0.1.0",
-  "description": "replaces 'class' with 'className' (inside jsx)",
-  "main": "index.js",
-  "author": {
-    "name": "Paul Vasich",
-    "email": "paul.vasich@gmail.com"
+{ "name" : "class-eq-classname",
+  "version" : "0.1.0",
+  "description" : "replaces 'class' with 'className' (inside jsx)",
+  "main" : "index.js",
+  "author" : 
+  { "name" : "Paul Vasich"
+  , "email" : "paul.vasich@gmail.com"
   },
-  "license": "ISC",
-  "maintainers": [
-    {
-      "name": "pavasich",
-      "email": "paul.vasich@.com"
+  "keywords" : ["jsx", "react"],
+  "license" : "ISC",
+  "maintainers" : [
+    { "name" : "pavasich"
+    , "email" : "paul.vasich@.com"
     }
   ],
-  "readme": "ERROR: No README data found!",
-  "readmeFilename": "README.md",
-  "_id": "class-eq-classname@0.1.0",
-  "scripts": {},
-  "_shasum": "5f0991d27d29312e48c48e3088a2fa187b4a3a6c",
-  "_from": "class-eq-classname@latest"
+  "repository" : 
+  { "type" : "git"
+  , "url" : "https://github.com/pavasich/class-eq-classname.git"
+  }
 }
