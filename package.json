@@ -1,5 +1,5 @@
 { "name" : "class-eq-classname",
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "description" : "replaces 'class' with 'className' (inside jsx)",
   "main" : "index.js",
   "author" : 
